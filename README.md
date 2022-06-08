@@ -1,3 +1,3 @@
-# react-zzmxtf
+# react-usereducer-hook
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-zzmxtf)
+Add or delete items in a list using useReducer hook
